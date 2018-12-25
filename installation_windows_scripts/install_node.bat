@@ -1,3 +1,3 @@
-choco install nodejs
+choco install nodejs -y
 
 exit
