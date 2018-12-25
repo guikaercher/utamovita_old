@@ -1,5 +1,8 @@
 # How to use
 
+## Download
+click here: https://github.com/guikaercher/utamovita/archive/master.zip
+
 ## Install
 Download and install Node.js
 Run "npm i" inside project folder
