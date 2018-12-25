@@ -1,0 +1,19 @@
+{
+  "name": "utamovita",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "node_modules/.bin/nexe -t x64-8.0.0 index.js",
+    "build123": "node_modules/.bin/pkg -t node8-win-x64 package.json --output dist/utamovita.exe",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": "./index.js",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "iohook": "^0.2.6",
+    "python": "0.0.4"
+  },
+  "devDependencies": {}
+}
